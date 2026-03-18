@@ -1,4 +1,5 @@
 Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+
 AIM:
 Develop a comprehensive report for the following exercises:
 
@@ -195,3 +196,4 @@ This process scales performance predictably but demands optimizations for effici
 
 Result:
 Thus a comprehensive report has been generated for the given topics.
+
